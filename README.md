@@ -3,19 +3,25 @@
 ## History = Historia:
 
     This is my first Powershell code. <br>
+    Mi primer programa en powershell. <br>
 
     Previously, do the following: <b>
         Clone git in folder on PC. <b>
 
-    Este es mi primera conexion a datos externos (directo desde la web).<br>
-
-    Previamente, realice lo siguiente:<b>
+    
+## Instructions
+    Previamente:<b>
         Clonar git en carpeta del PC.<b>
         
 
 ## What the project does = Que hace el proyecto:
-
-    Crea una funcion que suma dos numeros. <b>
+    Create a function that adds two numbers. 
+    	Create the function add. 
+	Called by typing add in power shell commands. <b>
+.<br>
+    Crea una funcion que suma dos numeros.
+    	Crea la funcion add. 
+	Se llama al escribir add en comandos de power shell. <b>
 
 
 ## Where users can get help with your project = Donde los usuarios pueden encontrar ayuda con el proyecto:
