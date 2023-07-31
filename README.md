@@ -2,28 +2,27 @@
 
 ## History = Historia:
 
-    This is my first Powershell code.
-    Mi primer programa en powershell.
+	This is my first Powershell code.
+	Mi primer programa en powershell.
         
 
 ## What the project does = Que hace el proyecto:
-    Create a function "add" that adds two numbers. 
-
-    Crea una funcion "add" que suma dos numeros.
+	Create a function "add" that adds two numbers. 
+	Crea una funcion "add" que suma dos numeros.
 
     
 ## Instructions
-    Previously:
-    	Clone git in the selected folder. 
-	Se llama al escribir add en comandos de power shell.
-    Previamente:
-        Clonar git en carpeta del PC.
-	Called by typing add in powershell commands.
+	Previously:
+		Clone git in the selected folder. 
+		Se llama al escribir add en comandos de power shell.
+	Previamente:	
+ 		Clonar git en carpeta del PC.
+		Called by typing add in powershell commands.
 
 
 ## Where users can get help with your project = Donde los usuarios pueden encontrar ayuda con el proyecto:
-    You can contact me at e1n1k0programa@gmail.com
-    Pueden escribirme a e1n1k0programa@gmail.com
+	You can contact me at e1n1k0programa@gmail.com
+	Pueden escribirme a e1n1k0programa@gmail.com
 
 
 ## Algunas notas: 
